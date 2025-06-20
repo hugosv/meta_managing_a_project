@@ -11,3 +11,7 @@ Fuchsia
 Purple
 Brown
 Red
+Yellow
+Bosta
+Merda
+Caralho
